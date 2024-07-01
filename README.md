@@ -22,7 +22,7 @@ As terminal customization bonus, includes installation instructions for [Z Shell
 
 1. Download [Z Shell](https://packages.msys2.org/package/zsh).
 
-1. Extract the content of the `*.tar.gz` downloaded file in `C:\Program Files\Git` directory.
+1. Extract the content of the `*.tar.zst` downloaded file in `C:\Program Files\Git` directory.
 
 1. Append at the end of `C:\Users\<YOUR_USER_NAME>\.bashrc` file the following content:
 
