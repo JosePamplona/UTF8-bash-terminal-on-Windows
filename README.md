@@ -2,7 +2,7 @@
 
 ![v1.0.0](https://img.shields.io/badge/version-1.0.0-white.svg?style=flat-squarex&color=lightgray)
 [![License](https://img.shields.io/github/license/JosePamplona/ExDebug)](https://github.com/JosePamplona/ExDebug/blob/main/LICENSE.md)
-[![Last Updated](https://img.shields.io/github/last-commit/JosePamplona/ExDebug.svg)](https://github.com/JosePamplona/ExDebug/commits/main)
+[![Last Updated](https://img.shields.io/github/last-commit/JosePamplona/ExDebug.svg)](https://github.com/JosePamplona/UTF8-bash-terminal-on-Windows/commits/main)
 
 Instructions to set the [Git BASH](https://gitforwindows.org/) terminal with support for UTF-8 Unicode characters for Windows.
 
