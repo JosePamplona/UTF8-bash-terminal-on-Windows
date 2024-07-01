@@ -6,7 +6,7 @@
 
 Instructions to set the [Git BASH](https://gitforwindows.org/) terminal with support for UTF-8 Unicode characters for Windows.
 
-As terminal customization bonus, includes installation instructions for [Z Shell](https://www.zsh.org/) and [Oh-My-Zsh](https://ohmyz.sh/).
+As terminal customization bonus, includes installation instructions for [Z Shell](https://www.zsh.org/) and [Oh My ZSH!](https://ohmyz.sh/).
 
 ## Steps
 
@@ -32,7 +32,7 @@ As terminal customization bonus, includes installation instructions for [Z Shell
     fi
     ```
 
-1. Install [Oh-My-Zsh](https://ohmyz.sh/#install):
+1. Install [Oh My ZSH!](https://ohmyz.sh/#install):
 
     ```bash
     sh -c "$(curl -fsSL <https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh>)"
